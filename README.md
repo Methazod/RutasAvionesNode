@@ -37,11 +37,11 @@ El proyecto está organizado en los siguientes directorios y archivos principale
   La aplicación estará disponible en http://localhost:3000 (puerto configurable)
 
 ## Endpoints de la API
-**GET /rutas**: Obtiene todas las rutas de aviones.
-**GET /rutas/:id**: Obtiene una ruta de avión específica por su ID.
-**POST /rutas**: Crea una nueva ruta de avión.
-**PUT /rutas/:id**: Actualiza una ruta de avión existente.
-**DELETE /rutas/:id**: Elimina una ruta de avión específica.
+-   **GET /rutas**: Obtiene todas las rutas de aviones.
+-   **GET /rutas/:id**: Obtiene una ruta de avión específica por su ID.
+-   **POST /rutas**: Crea una nueva ruta de avión.
+-   **PUT /rutas/:id**: Actualiza una ruta de avión existente.
+-   **DELETE /rutas/:id**: Elimina una ruta de avión específica.
 
 
 ## Contribuciones
